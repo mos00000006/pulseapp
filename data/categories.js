@@ -1,0 +1,2 @@
+window.PULSE_CATEGORIES=[
+['Tiles & Flooring','▧'],['Sanitary Ware','🚿'],['Plumbing','🔧'],['Paint & Allied','🎨'],['Building Materials','🧱'],['Doors & Windows','🚪'],['Electrical & Lighting','💡'],['Tools & Hardware','🛠️'],['Roofing','🏠'],['Timber & Boards','🪵'],['Steel & Fasteners','⚙️'],['Garden & Outdoor','🌿'],['Kitchens & Homeware','🍽️'],['Waterproofing & Chemicals','💧'],['Combo Deals','📦'],['Other','▣']];
